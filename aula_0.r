@@ -4,7 +4,7 @@
 # Universidade Federal da Bahia
 # https://github.com/vrios/Intro-Linguagem-R/wiki
 #####################################################
-
+Tava por aih cantarolando
 #####Usando o R como calculadora#####
 
 #Digite no R os códigos abaixo.
