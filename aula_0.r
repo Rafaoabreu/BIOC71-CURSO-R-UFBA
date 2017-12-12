@@ -123,6 +123,6 @@ Objeto
 source("chuchu.R")
 source(chuchu.R)
 setwd("C:/CavernaDoDragão")
-getwd
+getwd #da uma coisa lalalallalallala nada- diz o diretorio
 Getwd()
 #dica: quando o R der erro, copie e cole a mensagem de erro no google
